@@ -1,0 +1,6 @@
+kpis,definitions
+completion factor,Percentage of flights that were booked and not cancelled
+AOV,Ratio of total flight costs and count of total flights
+rejection factor,Percentage of flights that were booked and cancelled
+active customers,Customers who have booked atleast 1 confirmed flight
+high value customers,Customers who have booked atleast 1 confirmed flight and age between 20 to 30 years
